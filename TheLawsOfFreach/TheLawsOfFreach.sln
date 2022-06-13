@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheLawsOfFreach", "TheLawsOfFreach.csproj", "{50CA1789-AA73-4F3B-8B74-A8183983EDB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50CA1789-AA73-4F3B-8B74-A8183983EDB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50CA1789-AA73-4F3B-8B74-A8183983EDB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50CA1789-AA73-4F3B-8B74-A8183983EDB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50CA1789-AA73-4F3B-8B74-A8183983EDB0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C624E14-1792-435B-A967-35CDB8BD3967}
+	EndGlobalSection
+EndGlobal
